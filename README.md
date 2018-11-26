@@ -1,4 +1,4 @@
-== Installation
+## Installation
 
     pip install -r requirements.txt
     chmod +x track.py
@@ -6,7 +6,7 @@
 Get your user id from Absence.io -> Show Profile -> Integrations -> ID
 (bottom of the page)
 
-== Usage
+## Usage
 
     ./track.py start
     ./track.py stop
